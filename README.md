@@ -7,10 +7,20 @@ This repository houses a comprehensive analysis exploring the correlation betwee
 ## Key Features:
 
 Data Collection: Includes datasets on unemployment and crime rates in Texas, sourced from reputable databases and government reports.
+
+
 Data Preprocessing: Features data cleaning, normalization, and transformation scripts to prepare the data for analysis.
+
+
 Statistical Analysis: Employs various statistical tools to analyze trends and correlations between unemployment and crime rates.
+
+
 Data Visualization: Provides a series of interactive charts and graphs to visually represent the findings and trends.
+
+
 Machine Learning Models: Applies predictive models to assess the impact of unemployment on future crime rates.
+
+
 Insightful Conclusions: Offers a detailed report summarizing the key findings, implications, and potential policy recommendations.
 
 ## Technologies Used:
